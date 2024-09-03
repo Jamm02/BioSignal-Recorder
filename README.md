@@ -2,7 +2,9 @@
 A utility for visualizing and recording Biopotential Signals using Upside Down Labs BioAmp.
 
 ## Demonstration 
-![image info](./assets/randomADC.png)
+
+https://github.com/user-attachments/assets/b37b0f3a-4158-4743-b306-b8a3003d167d
+
 
 ## Setup instructions
 
